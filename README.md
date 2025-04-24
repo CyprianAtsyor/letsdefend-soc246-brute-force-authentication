@@ -50,16 +50,27 @@ At 02:15 PM, the SIEM triggered an alert for multiple suspicious POST requests f
 
 ---
 
-## 🖼️ Screenshots
+## 📸 Screenshots
 
-### SIEM Alert Panel
-![SIEM Alert](screenshots/soc246-alert.png)
+### 🔔 SIEM Alert
+![SOC Alert](/soc-alert.png)
 
-### IP Lookup in AbuseIPDB
-![AbuseIPDB Screenshot](screenshots/ip-lookup.png)
+### 🛡️ IP Reputation Lookup (AbuseIPDB)
+![AbuseIPDB Result](/abuseip.png)
 
-### Log Sample - Brute Force Attempt
-![Log Sample](screenshots/post-log.png)
+### 🧠 Analysis with ChatGPT
+![ChatGPT Insight](/chatgpt1.png)
+
+### 🔬 VirusTotal File Scan
+![VirusTotal](/virus-total.png)
+
+### 📄 Log Samples from Brute Force Activity
+![Logs - 1](/logs1.png)
+![Logs - 2](/logs2.png)
+![Logs - 3](/logs3.png)
+
+### 📌 Investigation Notes / Marker
+![Investigation Notes](/mark1.png)
 
 ---
 
